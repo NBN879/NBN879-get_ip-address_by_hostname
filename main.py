@@ -12,7 +12,6 @@ def get_ip_by_hostname():
 
 def main():
     print(get_ip_by_hostname())
-    print('Hello, world')
 
 
 if __name__ == '__main__':
